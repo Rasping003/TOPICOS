@@ -13,7 +13,7 @@ public class calculadoraHaza extends JFrame implements ActionListener {
     private JButton M,MasM,P, Igu, Me, X, Div, Por, Delete; //botones para operaciones
     String operaciones;
     double num1=0, num2, resultado;// variables para realizar las operaciones 
-        
+        //yo
         public calculadoraHaza(){
             setLayout(null);
             setTitle("Calculadora");
